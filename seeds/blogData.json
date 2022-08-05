@@ -1,0 +1,19 @@
+[
+    {
+      "title": "New Kitty Lord",
+      "description": "I am pleased to announce our new lord, Lord Farley III",
+      "user_id": 1
+    },
+
+    {   
+      "title": "Cool post",
+      "description": "If you are seeing this post that means that you are one of the chosen people to be part of the cool club!",
+      "user_id": 2
+    },
+
+    {
+      "title": "Python",
+      "description": "Can we all just agree that python is an odd language?",
+      "user_id": 1
+    }
+  ]
